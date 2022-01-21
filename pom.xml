@@ -12,7 +12,7 @@
 
     <properties>
         <spring.framework>4.3.0.RELEASE</spring.framework>
-        <dbh2.version>1.4.187</dbh2.version>
+        <dbh2.version>2.1.210</dbh2.version>
     </properties>
 
     <parent>
